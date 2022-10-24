@@ -1,0 +1,12 @@
+.innerwindowbackground{
+   /*same as WebsiteInnerWindowStyles.css dimentions/location, just converted to em*/
+    position: absolute;
+    width: 81.25em;
+    height: 43.75em;
+    margin-left: -40.625em;
+    bottom:0em;
+    left:50%;
+    opacity: 0.85;
+    background: rgb(0,255,59);
+    background: linear-gradient(90deg, rgba(0,255,59,1) 0%, rgba(39,115,81,1) 47%, rgba(31,83,22,1) 100%);    
+}

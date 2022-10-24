@@ -1,0 +1,28 @@
+.leftvideos-container{
+    position:absolute;
+    left: 140px;
+    top: -50px;
+    margin-top: -10px;
+}
+
+
+.vid{
+    margin-top: 260px;
+    left: 200px;
+    top: -50px;
+}
+
+
+.rightvideos-container{
+    position:absolute;
+    margin-top: 470px;
+    margin-right: 100px;
+}
+
+
+.vidright{
+    margin-left:700px;
+
+    left: 200px;
+    padding-bottom: 215px;
+}

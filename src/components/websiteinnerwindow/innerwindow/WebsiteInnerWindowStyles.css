@@ -1,0 +1,95 @@
+.innerwindow{
+    position: absolute;
+    width: 1300px;
+    height: 700px;
+    margin-left: -650px;
+    bottom: 0px;
+    left: 50%;    
+    display: flex;           
+    justify-content: center;
+    align-items:flex-start;
+    overflow-x: hidden;
+    overflow-y:scroll;
+}
+
+
+.titleImage{
+    position: absolute; 
+    width: 900px;
+    left: 200px;
+    top: 40px;
+    margin:auto;
+}
+
+.leftleaf-container {
+    display: flex;
+    flex-direction: column;
+    position:relative;
+    margin-top: 440px;
+    margin-left: 100px;
+
+}
+
+.leftLeafImage{
+    position: relative;
+    width: 460px;
+    padding-bottom: 220px;
+    margin-right:200px; 
+    margin-left: 80px;
+}
+
+.rightleaf-container{
+    display: flex;
+    flex-direction: column;
+    position:relative;
+    margin-top: 120px;
+    margin-left: -200px;
+}
+
+.rightLeafImage{
+    width: 460px;
+    padding: 100px; 
+    margin-right: 400px;
+}
+
+
+.innerstem-container{
+ display: flex;
+ flex-direction: column;
+ flex-direction: column-reverse;
+ position:relative;
+ margin-top: 280px;
+margin-right: 1px;
+ width: 250px;
+
+}
+
+
+.innerStemDiv{
+    position: relative;
+
+    height: 850px;
+    margin-bottom: -205px; 
+   
+
+}
+
+.innerStemImage{
+    position: absolute;
+    height: 850px;
+
+}
+
+
+
+
+.initial-stem-component{
+    position: relative;
+    height: 850px;
+}
+
+.initialStemImage{
+   
+    height: 850px;
+}
+
