@@ -2,7 +2,7 @@
    /*same as WebsiteInnerWindowStyles.css dimentions/location, just converted to em*/
     position: absolute;
     width: 81.25em;
-    height: 43.75em;
+    height: 600px;
     margin-left: -40.625em;
     bottom:0em;
     left:50%;
