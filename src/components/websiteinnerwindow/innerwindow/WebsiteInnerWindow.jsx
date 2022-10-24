@@ -51,14 +51,11 @@ export const WebsiteInnerWindow = () => {
          <div className="rightleaf-container">
             { Array(leavesRight).fill( <RightLeaf /> )}
          </div>
-
+        
          
 
-        
-                 <LeftVideos />
-
-<RightVideos />
-       
+         <RightVideos />
+         <LeftVideos />
       </div>      
   )  
 
